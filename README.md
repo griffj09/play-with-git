@@ -2,3 +2,4 @@
 This repo is for testing, playing, bashing and complaining.  Have fun!
 
 Thanks, I will!!!
+This is another test of Git
